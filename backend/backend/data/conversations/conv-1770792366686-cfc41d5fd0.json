@@ -1,0 +1,360 @@
+{
+  "id": "conv-1770792366686-cfc41d5fd0",
+  "location": "Wadala",
+  "baseRatePerSqft": 3618,
+  "messages": [
+    {
+      "id": "msg-1770792366716-6a5fa8ac",
+      "role": "user",
+      "type": "text",
+      "content": "Hello",
+      "timestamp": "2026-02-11T06:46:06.716Z"
+    },
+    {
+      "id": "msg-1770792368857-b24e9b05",
+      "role": "assistant",
+      "type": "answer",
+      "content": {
+        "answer": "I can assist with BOQ generation, cost estimates, material suggestions, and design advice. Ask me about:\n• Tiles, flooring, paint, lighting\n• Kitchen, bathroom, bedroom designs\n• Furniture, colors, budget planning\n• Waterproofing, renovation tips\n\nOr type \"I need BOQ\" for a detailed quotation!"
+      },
+      "timestamp": "2026-02-11T06:46:08.857Z"
+    },
+    {
+      "id": "msg-1770792378326-ad3c9282",
+      "role": "user",
+      "type": "text",
+      "content": "I need BOQ",
+      "timestamp": "2026-02-11T06:46:18.326Z"
+    },
+    {
+      "id": "msg-1770792378356-51ec56f1",
+      "role": "assistant",
+      "type": "answer",
+      "content": {
+        "answer": "Great! Let me gather some details to create an accurate BOQ for you. 📋\n\n🏠 **What type of property is this for?**\n\nPlease choose one:\n• 1BHK\n• 2BHK\n• 3BHK\n• 4BHK\n• Villa\n• Office\n• Shop/Commercial"
+      },
+      "timestamp": "2026-02-11T06:46:18.356Z"
+    },
+    {
+      "id": "msg-1770792386563-f2261bec",
+      "role": "user",
+      "type": "text",
+      "content": "2 BHK",
+      "timestamp": "2026-02-11T06:46:26.563Z"
+    },
+    {
+      "id": "msg-1770792386586-48eaeec1",
+      "role": "assistant",
+      "type": "answer",
+      "content": {
+        "answer": "❌ Invalid answer. Please provide a valid response.\n\n🏠 **What type of property is this for?**\n\nPlease choose one:\n• 1BHK\n• 2BHK\n• 3BHK\n• 4BHK\n• Villa\n• Office\n• Shop/Commercial"
+      },
+      "timestamp": "2026-02-11T06:46:26.586Z"
+    },
+    {
+      "id": "msg-1770792390695-4ee0f575",
+      "role": "user",
+      "type": "text",
+      "content": "2BHK",
+      "timestamp": "2026-02-11T06:46:30.695Z"
+    },
+    {
+      "id": "msg-1770792390730-869ee346",
+      "role": "assistant",
+      "type": "answer",
+      "content": {
+        "answer": "✅ Got it!\n\n📏 **What is the carpet area in square feet?**\n\nExample: 900 sqft or just 900"
+      },
+      "timestamp": "2026-02-11T06:46:30.730Z"
+    },
+    {
+      "id": "msg-1770792401363-91a9af45",
+      "role": "user",
+      "type": "text",
+      "content": "450",
+      "timestamp": "2026-02-11T06:46:41.363Z"
+    },
+    {
+      "id": "msg-1770792401390-e8655b58",
+      "role": "assistant",
+      "type": "answer",
+      "content": {
+        "answer": "✅ Got it!\n\n📍 **Which location is this property in?**\n\nPlease choose one:\n• BKC, Bandra\n• Wadala\n• Andheri\n• Powai\n• Dadar\n• Navi Mumbai\n• Pune\n• Other (please specify)"
+      },
+      "timestamp": "2026-02-11T06:46:41.390Z"
+    },
+    {
+      "id": "msg-1770792405361-a6cc76c8",
+      "role": "user",
+      "type": "text",
+      "content": "other",
+      "timestamp": "2026-02-11T06:46:45.361Z"
+    },
+    {
+      "id": "msg-1770792405403-66a9701a",
+      "role": "assistant",
+      "type": "answer",
+      "content": {
+        "answer": "✅ Got it!\n\n🔨 **What type of work do you need?**\n\nYou can select multiple (comma-separated):\n• Kitchen renovation\n• Bathroom renovation\n• False ceiling\n• Painting (interior)\n• Painting (exterior)\n• Flooring\n• Electrical work\n• Plumbing work\n• Carpentry\n• Full home renovation\n• Other (please specify)"
+      },
+      "timestamp": "2026-02-11T06:46:45.403Z"
+    },
+    {
+      "id": "msg-1770792414052-cc80ef2a",
+      "role": "user",
+      "type": "text",
+      "content": "flooring",
+      "timestamp": "2026-02-11T06:46:54.052Z"
+    },
+    {
+      "id": "msg-1770792414073-d0438e35",
+      "role": "assistant",
+      "type": "answer",
+      "content": {
+        "answer": "✅ Got it!\n\n💎 **What quality/budget preference do you have?**\n\nPlease choose one:\n• Economy (Budget-friendly)\n• Standard (Good balance)\n• Premium (High-quality)\n• Luxury (Top-of-the-line)"
+      },
+      "timestamp": "2026-02-11T06:46:54.073Z"
+    },
+    {
+      "id": "msg-1770792421515-bd40708c",
+      "role": "user",
+      "type": "text",
+      "content": "standard",
+      "timestamp": "2026-02-11T06:47:01.515Z"
+    },
+    {
+      "id": "msg-1770792421538-1c33ab88",
+      "role": "assistant",
+      "type": "answer",
+      "content": {
+        "answer": "📋 **Perfect! Here's what I understood:**\n\n🏠 **Property:** 2BHK\n📏 **Area:** 450 sqft\n📍 **Location:** other\n🔨 **Work Required:** flooring\n💎 **Quality Level:** standard\n\n**Shall I generate the BOQ with these details?** ✨\n\nReply with:\n• **\"Yes\"** or **\"Generate\"** to proceed with BOQ generation\n• **\"No\"** or **\"Change\"** to modify requirements\n• Specify what to change (e.g., \"change location to Pune\")"
+      },
+      "timestamp": "2026-02-11T06:47:01.538Z"
+    },
+    {
+      "id": "msg-1770792437554-9835d22e",
+      "role": "user",
+      "type": "text",
+      "content": "yes",
+      "timestamp": "2026-02-11T06:47:17.554Z"
+    },
+    {
+      "id": "msg-1770792437959-8be17f8c",
+      "role": "assistant",
+      "type": "boq",
+      "content": {
+        "meta": {
+          "projectType": "2BHK",
+          "areaSqft": 450,
+          "qualityTier": "standard",
+          "language": "auto",
+          "location": "other",
+          "locationMultiplier": 1,
+          "baseRatePerSqft": 3618,
+          "effectiveMultiplier": 1,
+          "assumptions": [
+            "Rates are taken from Elemantra Master Rate Card, adjusted for other location with base rate ₹3618/sqft.",
+            "Quantities are estimated from prompt; accuracy increases with drawings and photos."
+          ]
+        },
+        "sections": [
+          {
+            "name": "A. CIVIL & INTERIOR WORKS",
+            "items": [
+              {
+                "item": "Flooring - Tile",
+                "uom": "Sqft",
+                "qty": 135,
+                "rate": 180,
+                "amount": 24300
+              },
+              {
+                "item": "Plastering",
+                "uom": "Sqft",
+                "qty": 135,
+                "rate": 35,
+                "amount": 4725
+              },
+              {
+                "item": "Demolition & Debris",
+                "uom": "Sqft",
+                "qty": 135,
+                "rate": 45,
+                "amount": 6075
+              },
+              {
+                "item": "Concrete Work",
+                "uom": "Sqft",
+                "qty": 135,
+                "rate": 220,
+                "amount": 29700
+              },
+              {
+                "item": "Wall Painting",
+                "uom": "Sqft",
+                "qty": 135,
+                "rate": 22,
+                "amount": 2970
+              },
+              {
+                "item": "Ceiling Painting",
+                "uom": "Sqft",
+                "qty": 135,
+                "rate": 18,
+                "amount": 2430
+              },
+              {
+                "item": "Cove/Profile",
+                "uom": "Rft",
+                "qty": 10,
+                "rate": 220,
+                "amount": 2200
+              },
+              {
+                "item": "Gypsum Ceiling",
+                "uom": "Sqft",
+                "qty": 135,
+                "rate": 120,
+                "amount": 16200
+              },
+              {
+                "item": "Metal Fabrication",
+                "uom": "Sqft",
+                "qty": 135,
+                "rate": 150,
+                "amount": 20250
+              }
+            ],
+            "sectionBase": 108850
+          },
+          {
+            "name": "CARPENTRY & MODULAR",
+            "items": [
+              {
+                "item": "Wardrobe Internal",
+                "uom": "Sqft",
+                "qty": 135,
+                "rate": 1300,
+                "amount": 175500
+              }
+            ],
+            "sectionBase": 175500
+          },
+          {
+            "name": "B. MEP WORKS",
+            "items": [
+              {
+                "item": "DB/MCB Changes",
+                "uom": "L.S.",
+                "qty": 1,
+                "rate": 12000,
+                "amount": 12000
+              },
+              {
+                "item": "Electrical Points",
+                "uom": "L.S.",
+                "qty": 1,
+                "rate": 30000,
+                "amount": 30000
+              },
+              {
+                "item": "Light Fixture Installation",
+                "uom": "L.S.",
+                "qty": 1,
+                "rate": 8000,
+                "amount": 8000
+              },
+              {
+                "item": "Water Supply Pipes",
+                "uom": "Rft",
+                "qty": 10,
+                "rate": 85,
+                "amount": 850
+              }
+            ],
+            "sectionBase": 50850
+          },
+          {
+            "name": "DIRECT PROCUREMENT",
+            "items": [],
+            "sectionBase": 0
+          },
+          {
+            "name": "CONSULTATION",
+            "items": [],
+            "sectionBase": 0
+          }
+        ],
+        "suggestions": [
+          "💰 Carpentry represents NaN% of budget. Consider bulk material purchases for 10-15% discounts.",
+          "🎨 Painting represents NaN% of budget. Evaluate premium paints with longer warranties to reduce repainting costs.",
+          "🏭 Consider value engineering for finishes - you can achieve similar aesthetics at 15-20% lower cost with smart material choices.",
+          "💧 Upgrade to water-resistant materials in bathrooms and kitchens. This prevents moisture damage and saves 30-40% on future repairs.",
+          "🌿 Use eco-friendly and low-VOC paints for healthier indoor air quality, especially important for bedrooms and children's rooms.",
+          "🔨 Civil work should be completed first before carpentry to avoid rework. This saves 10-15% in labor costs.",
+          "⏰ Schedule painting in final phases to protect fresh finishes. Consider doing touch-ups after all other work is complete.",
+          "📦 Plan phased procurement to avoid storage issues and material degradation. Order items 1-2 weeks before installation.",
+          "🛡️ Include 5-10% contingency buffer for unforeseen expenses like hidden structural issues or price fluctuations.",
+          "📝 Specify material quality standards clearly in contracts. Include brand names, grades, and quality certifications."
+        ],
+        "topazSummary": {
+          "areaSqft": 450,
+          "subtotalBase": 335200,
+          "gstPercent": 18,
+          "gstAmount": 60336,
+          "grandTotal": 395536,
+          "costPerSqft": 3618,
+          "effectiveCostPerSqft": 879,
+          "baseRatePerSqft": 3618
+        },
+        "packageSummary": {
+          "rows": [
+            {
+              "packageName": "A. CIVIL & INTERIOR WORKS",
+              "movableTag": "immovable",
+              "baseAmount": 108850,
+              "taxAmount": 19593,
+              "totalAmount": 128443
+            },
+            {
+              "packageName": "CARPENTRY & MODULAR",
+              "movableTag": "immovable",
+              "baseAmount": 175500,
+              "taxAmount": 31590,
+              "totalAmount": 207090
+            },
+            {
+              "packageName": "B. MEP WORKS",
+              "movableTag": "immovable",
+              "baseAmount": 50850,
+              "taxAmount": 9153,
+              "totalAmount": 60003
+            },
+            {
+              "packageName": "DIRECT PROCUREMENT",
+              "movableTag": "movable",
+              "baseAmount": 0,
+              "taxAmount": 0,
+              "totalAmount": 0
+            },
+            {
+              "packageName": "CONSULTATION",
+              "movableTag": "immovable",
+              "baseAmount": 0,
+              "taxAmount": 0,
+              "totalAmount": 0
+            }
+          ],
+          "totals": {
+            "immovableTotal": 395536,
+            "movableTotal": 0,
+            "combinedTotal": 395536
+          }
+        }
+      },
+      "timestamp": "2026-02-11T06:47:17.959Z"
+    }
+  ],
+  "createdAt": "2026-02-11T06:46:06.687Z",
+  "updatedAt": "2026-02-11T06:47:17.960Z"
+}

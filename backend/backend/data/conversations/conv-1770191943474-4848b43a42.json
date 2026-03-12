@@ -1,0 +1,25 @@
+{
+  "id": "conv-1770191943474-4848b43a42",
+  "location": "Wadala",
+  "baseRatePerSqft": 3618,
+  "messages": [
+    {
+      "id": "msg-1770191943493-92d4f254",
+      "role": "user",
+      "type": "text",
+      "content": "Please analyze the attached file(s) and respond.\n\nAttached file(s): boq (1).xlsx",
+      "timestamp": "2026-02-04T07:59:03.493Z"
+    },
+    {
+      "id": "msg-1770191946086-abb34171",
+      "role": "assistant",
+      "type": "answer",
+      "content": {
+        "answer": "I received your attached file(s) and extracted the following text from the document(s).\n\n--- Document analysis ---\nDetected BOQ document(s):\nboq (1).xlsx\n- boq (1).xlsx:\nBOQ document with 72 items\n\nNote:\nAI model response is unavailable right now, so this is based on extracted text only.\nIf your PDF is scanned (image-only), text extraction may be empty — in that case upload clear images/screenshots for OCR.\n\n--- Extracted content (preview) ---\n--- Content from boq (1).xlsx (application/vnd.openxmlformats-officedocument.spreadsheetml.sheet) ---\n\n=== Sheet:\nBOQ ===\nQuotation Summary,,,,,,,,,,,,,,,,\n,,,,,,,,,,,,,,,,\nArea in Sqft,900,,,,,,,,,,,,,,,\n,,,,,,,,,,,,,,,,\nSR.NO,Description,Amount,,,,,,,,,,,,,,\n,Total A,617350,,,,,,,,,,,,,,\n,Per Sqft Rate,685.9444444,,,,,,,,,,,,,,\n,,,,,,,,,,,,,,,,\n,,,,,,,,,,,,,,,,\nSr.No,Id,Item Name,Category,Item Details,Description,UOM,Elemantra Rates,Quantity,Amount,Area,Difference Amount,Amount,RA\n- 1\n- WORK %,RA\n- 1\n- WORK%\n- AMOUNT,Location,Remark\n,,,,,,,,,,,,,,,,\n,,,,,,,,,,,,,,,,\nSubtotal,,,,,,,,,,,,617350,,,,\nGST (18%),,,,,,,,,,,,111123,,,,\nGrand Total,,,,,,,,,,,,728473,,,,\nCost per Sqft,,,,,,,,,,,,3618,,,,\n\n[Structured Data]:\n[\n{\n\"Quotation Summary\": \"Area in Sqft\",\n\"__EMPTY\": 900\n},\n{\n\"Quotation Summary\": \"SR.NO\",\n\"__EMPTY\": \"Description\",\n\"__EMPTY_1\": \"Amount\"\n},\n{\n\"__EMPTY\": \"Total A\",\n\"__EMPTY_1\": 617350\n},\n{\n\"__EMPTY\": \"Per Sqft Rate\",\n\"__EMPTY_1\": 685.9444444444445\n},\n{\n\"Quotation Summary\": \"Sr.No\",\n\"__EMPTY\": \"Id\",\n\"__EMPTY_1\": \"Item Name\",\n\"__EMPTY_2\": \"Category\",\n\"__EMPTY_3\": \"Item Details\",\n\"__EMPTY_4\": \"Description\",\n\"__EMPTY_5\": \"UOM\",\n\"__EMPTY_6\": \"Elemantra Rates\",\n\"__EMPTY_7\": \"Quantity\",\n\"__EMPTY_8\": \"Amount\",\n\"__EMPTY_9\": \"Area\",\n\"__EMPTY_10\": \"Difference Amount\",\n\"__EMPTY_11\": \"Amount\",\n\"__EMPTY_12\": \"RA\n- 1\n- WORK %\",\n\"__EMPTY_13\": \"RA\n- 1\n- WORK%\n- AMOUNT\",\n\"__EMPTY_14\": \"Location\",\n\"__EMPTY_15\": \"Remark\"\n},\n{\n\"Quotation Summary\": \"Subtotal\",\n\"__EMPTY_11\": 617350\n},\n{\n\"Quotation Summary\": \"GST (18%)\",\n\"__EMPTY_11\": 111123\n},\n{\n\"Quotation Summary\": \"Grand Total\",\n\"__EMPTY_11\": 728473\n},\n{\n\"Quotation Summary\": \"Cost per Sqft\",\n\"__EMPTY_11\": 3618\n}\n]\n\n[Analysis:\nBOQ document with 72 items]\n\nTell me what you want from this PDF:\n- Summarize\n- Find totals / key numbers\n- Create BOQ / estimate\n- Extract specific items into a table\nAnd I’ll proceed accordingly."
+      },
+      "timestamp": "2026-02-04T07:59:06.086Z"
+    }
+  ],
+  "createdAt": "2026-02-04T07:59:03.477Z",
+  "updatedAt": "2026-02-04T07:59:06.087Z"
+}

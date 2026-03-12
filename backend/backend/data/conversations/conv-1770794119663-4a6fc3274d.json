@@ -1,0 +1,137 @@
+{
+  "id": "conv-1770794119663-4a6fc3274d",
+  "location": "Wadala",
+  "baseRatePerSqft": 3618,
+  "messages": [
+    {
+      "id": "msg-1770794119680-e28bfda0",
+      "role": "user",
+      "type": "text",
+      "content": "hi",
+      "timestamp": "2026-02-11T07:15:19.680Z"
+    },
+    {
+      "id": "msg-1770794121423-4ded9728",
+      "role": "assistant",
+      "type": "answer",
+      "content": {
+        "answer": "I can assist with BOQ generation, cost estimates, material suggestions, and design advice. Ask me about:\n• Tiles, flooring, paint, lighting\n• Kitchen, bathroom, bedroom designs\n• Furniture, colors, budget planning\n• Waterproofing, renovation tips\n\nOr type \"I need BOQ\" for a detailed quotation!"
+      },
+      "timestamp": "2026-02-11T07:15:21.423Z"
+    },
+    {
+      "id": "msg-1770794125167-dace9593",
+      "role": "user",
+      "type": "text",
+      "content": "tiles",
+      "timestamp": "2026-02-11T07:15:25.167Z"
+    },
+    {
+      "id": "msg-1770794126833-187b1beb",
+      "role": "assistant",
+      "type": "answer",
+      "content": {
+        "answer": "🔳 <strong>Types of Tiles for Interior Projects:</strong>\n\n<strong>\n\nBathroom & Kitchen:</strong>\n• <strong>Ceramic Tiles</strong>\n- Budget-friendly, water-resistant, wide variety of designs (₹400-800/sqft)\n• <strong>Vitrified Tiles</strong>\n- Durable, low water absorption, glossy finish (₹600-1200/sqft)\n• <strong>Porcelain Tiles</strong>\n- Premium quality, highly durable, stain-resistant (₹800-1500/sqft)\n• <strong>Mosaic Tiles</strong>\n- Decorative, ideal for accent walls (₹500-1000/sqft)\n\n<strong>\n\nLiving Areas:</strong>\n• <strong>Marble Tiles</strong>\n- Luxurious, natural stone, requires maintenance (₹1200-2500/sqft)\n• <strong>Granite Tiles</strong>\n- Durable, heat-resistant, various colors (₹800-1800/sqft)\n• <strong>Wooden Finish Tiles</strong>\n- Wood look without maintenance (₹700-1400/sqft)\n\n<strong>\n\nOutdoor:</strong>\n• <strong>Anti-skid Tiles</strong>\n- Safety for wet areas (₹500-900/sqft)\n• <strong>Kota Stone</strong>\n- Traditional, heat-resistant (₹400-700/sqft)\n\nRecommendation:\nFor bathrooms, use anti-skid ceramic or vitrified tiles. For living rooms, vitrified or marble tiles work best."
+      },
+      "timestamp": "2026-02-11T07:15:26.833Z"
+    },
+    {
+      "id": "msg-1770794133010-69a84e6c",
+      "role": "user",
+      "type": "text",
+      "content": "paint",
+      "timestamp": "2026-02-11T07:15:33.010Z"
+    },
+    {
+      "id": "msg-1770794134672-6044a2a2",
+      "role": "assistant",
+      "type": "answer",
+      "content": {
+        "answer": "🎨 <strong>Paint Types &\n\nRecommendations:</strong>\n\n<strong>Interior Walls:</strong>\n• <strong>Emulsion Paint</strong>\n- Most common, washable, various finishes (₹20-50/sqft)\n- Flat/Matte:\nHides imperfections, low maintenance\n- Satin:\nSlight sheen, easy to clean\n- Glossy:\nHigh shine, very washable\n• <strong>Distemper</strong>\n- Budget option, not washable (₹12-25/sqft)\n• <strong>Texture Paint</strong>\n- Decorative, adds depth (₹100-200/sqft)\n\n<strong>Exterior:</strong>\n• <strong>Apex Exterior</strong>\n- Weather-resistant (₹30-60/sqft)\n• <strong>Waterproof Paint</strong>\n- Prevents seepage (₹35-70/sqft)\n\n<strong>Wood & Metal:</strong>\n• <strong>Enamel Paint</strong>\n- Durable, glossy finish (₹50-100/sqft)\n• <strong>PU Paint</strong>\n- Premium, smooth finish (₹150-300/sqft)\n\n<strong>Popular Brands:</strong> Asian Paints, Berger, Nerolac, Dulux\n\nTip:\nFor bedrooms, use matte finish. For kitchens and bathrooms, use satin or semi-gloss for easy cleaning."
+      },
+      "timestamp": "2026-02-11T07:15:34.672Z"
+    },
+    {
+      "id": "msg-1770794137881-5e314e3d",
+      "role": "user",
+      "type": "text",
+      "content": "tiles",
+      "timestamp": "2026-02-11T07:15:37.881Z"
+    },
+    {
+      "id": "msg-1770794139487-406881d3",
+      "role": "assistant",
+      "type": "answer",
+      "content": {
+        "answer": "🔳 <strong>Types of Tiles for Interior Projects:</strong>\n\n<strong>\n\nBathroom & Kitchen:</strong>\n• <strong>Ceramic Tiles</strong>\n- Budget-friendly, water-resistant, wide variety of designs (₹400-800/sqft)\n• <strong>Vitrified Tiles</strong>\n- Durable, low water absorption, glossy finish (₹600-1200/sqft)\n• <strong>Porcelain Tiles</strong>\n- Premium quality, highly durable, stain-resistant (₹800-1500/sqft)\n• <strong>Mosaic Tiles</strong>\n- Decorative, ideal for accent walls (₹500-1000/sqft)\n\n<strong>\n\nLiving Areas:</strong>\n• <strong>Marble Tiles</strong>\n- Luxurious, natural stone, requires maintenance (₹1200-2500/sqft)\n• <strong>Granite Tiles</strong>\n- Durable, heat-resistant, various colors (₹800-1800/sqft)\n• <strong>Wooden Finish Tiles</strong>\n- Wood look without maintenance (₹700-1400/sqft)\n\n<strong>\n\nOutdoor:</strong>\n• <strong>Anti-skid Tiles</strong>\n- Safety for wet areas (₹500-900/sqft)\n• <strong>Kota Stone</strong>\n- Traditional, heat-resistant (₹400-700/sqft)\n\nRecommendation:\nFor bathrooms, use anti-skid ceramic or vitrified tiles. For living rooms, vitrified or marble tiles work best."
+      },
+      "timestamp": "2026-02-11T07:15:39.487Z"
+    },
+    {
+      "id": "msg-1770794147972-aa050184",
+      "role": "user",
+      "type": "text",
+      "content": "tiles",
+      "timestamp": "2026-02-11T07:15:47.972Z"
+    },
+    {
+      "id": "msg-1770794149649-23d5064f",
+      "role": "assistant",
+      "type": "answer",
+      "content": {
+        "answer": "🔳 <strong>Types of Tiles for Interior Projects:</strong>\n\n<strong>\n\nBathroom & Kitchen:</strong>\n• <strong>Ceramic Tiles</strong>\n- Budget-friendly, water-resistant, wide variety of designs (₹400-800/sqft)\n• <strong>Vitrified Tiles</strong>\n- Durable, low water absorption, glossy finish (₹600-1200/sqft)\n• <strong>Porcelain Tiles</strong>\n- Premium quality, highly durable, stain-resistant (₹800-1500/sqft)\n• <strong>Mosaic Tiles</strong>\n- Decorative, ideal for accent walls (₹500-1000/sqft)\n\n<strong>\n\nLiving Areas:</strong>\n• <strong>Marble Tiles</strong>\n- Luxurious, natural stone, requires maintenance (₹1200-2500/sqft)\n• <strong>Granite Tiles</strong>\n- Durable, heat-resistant, various colors (₹800-1800/sqft)\n• <strong>Wooden Finish Tiles</strong>\n- Wood look without maintenance (₹700-1400/sqft)\n\n<strong>\n\nOutdoor:</strong>\n• <strong>Anti-skid Tiles</strong>\n- Safety for wet areas (₹500-900/sqft)\n• <strong>Kota Stone</strong>\n- Traditional, heat-resistant (₹400-700/sqft)\n\nRecommendation:\nFor bathrooms, use anti-skid ceramic or vitrified tiles. For living rooms, vitrified or marble tiles work best."
+      },
+      "timestamp": "2026-02-11T07:15:49.649Z"
+    },
+    {
+      "id": "msg-1770794152874-fdb473d1",
+      "role": "user",
+      "type": "text",
+      "content": "boq",
+      "timestamp": "2026-02-11T07:15:52.874Z"
+    },
+    {
+      "id": "msg-1770794154527-cfbe9948",
+      "role": "assistant",
+      "type": "answer",
+      "content": {
+        "answer": "I can help generate a BOQ and cost estimate. Please confirm: 1) BHK (e.g. 2BHK), 2) total area in sqft, and 3) any specific materials or exclusions. Once you confirm, I'll prepare a section-wise BOQ (civil, carpentry, plumbing, electrical, painting, false ceiling, POP, demolition, etc.) with quantities and estimated rates."
+      },
+      "timestamp": "2026-02-11T07:15:54.527Z"
+    },
+    {
+      "id": "msg-1770794170183-0a146d01",
+      "role": "user",
+      "type": "text",
+      "content": "carpentary",
+      "timestamp": "2026-02-11T07:16:10.183Z"
+    },
+    {
+      "id": "msg-1770794171884-2a100c92",
+      "role": "assistant",
+      "type": "answer",
+      "content": {
+        "answer": "I can assist with BOQ generation, cost estimates, material suggestions, and design advice. Ask me about:\n• Tiles, flooring, paint, lighting\n• Kitchen, bathroom, bedroom designs\n• Furniture, colors, budget planning\n• Waterproofing, renovation tips\n\nOr type \"I need BOQ\" for a detailed quotation!"
+      },
+      "timestamp": "2026-02-11T07:16:11.884Z"
+    },
+    {
+      "id": "msg-1770794183056-623b7d9c",
+      "role": "user",
+      "type": "text",
+      "content": "I need BOQ",
+      "timestamp": "2026-02-11T07:16:23.056Z"
+    },
+    {
+      "id": "msg-1770794183102-144c98c7",
+      "role": "assistant",
+      "type": "answer",
+      "content": {
+        "answer": "Great! Let me gather some details to create an accurate BOQ for you. 📋\n\n🏠 **What type of property is this for?**\n\nPlease choose one:\n• 1BHK\n• 2BHK\n• 3BHK\n• 4BHK\n• Villa\n• Office\n• Shop/Commercial"
+      },
+      "timestamp": "2026-02-11T07:16:23.102Z"
+    }
+  ],
+  "createdAt": "2026-02-11T07:15:19.663Z",
+  "updatedAt": "2026-02-11T07:16:23.102Z"
+}

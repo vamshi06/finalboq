@@ -1,0 +1,25 @@
+{
+  "id": "conv-1770207281964-7eb29e0f5f",
+  "location": "Wadala",
+  "baseRatePerSqft": 3618,
+  "messages": [
+    {
+      "id": "msg-1770207282019-05e1035b",
+      "role": "user",
+      "type": "text",
+      "content": "Tiles",
+      "timestamp": "2026-02-04T12:14:42.019Z"
+    },
+    {
+      "id": "msg-1770207284053-3edf66f5",
+      "role": "assistant",
+      "type": "answer",
+      "content": {
+        "answer": "🔳 <strong>Types of Tiles for Interior Projects:</strong>\n\n<strong>\n\nBathroom & Kitchen:</strong>\n• <strong>Ceramic Tiles</strong>\n- Budget-friendly, water-resistant, wide variety of designs (₹400-800/sqft)\n• <strong>Vitrified Tiles</strong>\n- Durable, low water absorption, glossy finish (₹600-1200/sqft)\n• <strong>Porcelain Tiles</strong>\n- Premium quality, highly durable, stain-resistant (₹800-1500/sqft)\n• <strong>Mosaic Tiles</strong>\n- Decorative, ideal for accent walls (₹500-1000/sqft)\n\n<strong>\n\nLiving Areas:</strong>\n• <strong>Marble Tiles</strong>\n- Luxurious, natural stone, requires maintenance (₹1200-2500/sqft)\n• <strong>Granite Tiles</strong>\n- Durable, heat-resistant, various colors (₹800-1800/sqft)\n• <strong>Wooden Finish Tiles</strong>\n- Wood look without maintenance (₹700-1400/sqft)\n\n<strong>\n\nOutdoor:</strong>\n• <strong>Anti-skid Tiles</strong>\n- Safety for wet areas (₹500-900/sqft)\n• <strong>Kota Stone</strong>\n- Traditional, heat-resistant (₹400-700/sqft)\n\nRecommendation:\nFor bathrooms, use anti-skid ceramic or vitrified tiles. For living rooms, vitrified or marble tiles work best."
+      },
+      "timestamp": "2026-02-04T12:14:44.053Z"
+    }
+  ],
+  "createdAt": "2026-02-04T12:14:41.965Z",
+  "updatedAt": "2026-02-04T12:14:44.054Z"
+}

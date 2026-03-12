@@ -1,0 +1,124 @@
+{
+  "meta": {
+    "projectType": "2BHK Premium Apartment",
+    "areaSqft": 1673,
+    "qualityTier": "premium"
+  },
+  "boqLines": [
+    {
+      "itemName": "Demolition",
+      "itemId": "CIVIL-001",
+      "dept": "Civil",
+      "qty": 208,
+      "uom": "sq.ft",
+      "elemantraRate": 250,
+      "elemantraAmount": 52000,
+      "itemDetails": "walls",
+      "description": "Demolition of walls",
+      "location": "Kitchen & Bathrooms",
+      "raPercentage": 1,
+      "isMovable": false
+    },
+    {
+      "itemName": "Kitchen Platform",
+      "itemId": "CIVIL-002",
+      "dept": "Civil",
+      "qty": 25,
+      "uom": "sq.ft",
+      "elemantraRate": 3000,
+      "elemantraAmount": 75000,
+      "itemDetails": "Marble platform",
+      "description": "Marble with verticals",
+      "location": "Kitchen",
+      "raPercentage": 1,
+      "isMovable": false
+    },
+    {
+      "itemName": "Bathroom Plumbing",
+      "itemId": "PL-001",
+      "dept": "Plumbing",
+      "qty": 1,
+      "uom": "per bathroom",
+      "elemantraRate": 35000,
+      "elemantraAmount": 35000,
+      "itemDetails": "CP Fittings",
+      "description": "Basin + CP fittings + Ceiling shower",
+      "location": "Samar Toilet",
+      "raPercentage": 0.85,
+      "isMovable": false
+    },
+    {
+      "itemName": "Electrical Wiring",
+      "itemId": "E-001",
+      "dept": "Electrical",
+      "qty": 1673,
+      "uom": "sqft",
+      "elemantraRate": 350,
+      "elemantraAmount": 585550,
+      "itemDetails": "5A Switch socket",
+      "description": "New 5A switch and socket for all areas",
+      "location": "All areas",
+      "raPercentage": 0.75,
+      "isMovable": false
+    },
+    {
+      "itemName": "Main Door",
+      "itemId": "CP-111",
+      "dept": "Carpentry",
+      "qty": 1,
+      "uom": "Nos",
+      "elemantraRate": 65000,
+      "elemantraAmount": 65000,
+      "itemDetails": "Veneer Finish",
+      "description": "MR ply with veneer finish",
+      "location": "Main entrance",
+      "raPercentage": 0.45,
+      "isMovable": false
+    },
+    {
+      "itemName": "Wardrobe",
+      "itemId": "CP-117",
+      "dept": "Carpentry",
+      "qty": 90,
+      "uom": "sq.ft",
+      "elemantraRate": 1800,
+      "elemantraAmount": 162000,
+      "itemDetails": "Laminate Finish",
+      "description": "MR ply with laminate",
+      "location": "Mother Bedroom",
+      "raPercentage": 0.5,
+      "isMovable": false
+    },
+    {
+      "itemName": "Wall Painting",
+      "itemId": "P-005",
+      "dept": "Painting",
+      "qty": 4183,
+      "uom": "sq.ft",
+      "elemantraRate": 45,
+      "elemantraAmount": 188235,
+      "itemDetails": "Royal Shyne Paint",
+      "description": "Wall painting with primer and putty",
+      "location": "All walls",
+      "raPercentage": 1,
+      "isMovable": false
+    }
+  ],
+  "topazSummary": {
+    "subtotalBase": 1162785,
+    "gstPercent": 18,
+    "gstAmount": 209301,
+    "grandTotal": 1372086,
+    "costPerSqft": 820,
+    "consultationFees": 100000
+  },
+  "packageSummary": {
+    "rows": [],
+    "totals": {
+      "immovableTotal": 0,
+      "movableTotal": 0,
+      "combinedTotal": 0
+    }
+  },
+  "suggestions": []
+}
