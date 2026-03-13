@@ -1,11 +1,9 @@
 import { NextResponse } from "next/server";
 
-// ✅ Ensure env is set like:
-// NEXT_PUBLIC_BACKEND_URL=https://boq-generator-pcqh.onrender.com
-const BACKEND = (process.env.NEXT_PUBLIC_BACKEND_URL || "http://localhost:8080").replace(/\/$/, "");
-
 export async function GET() {
   try {
+    const BACKEND = (process.env.BACKEND_URL || process.env.NEXT_PUBLIC_BACKEND_URL || "https://boq-generator-pcqh.onrender.com").replace(/\/$/, "");
+
     const response = await fetch(`${BACKEND}/api/rate-card`, {
       cache: "no-store",
     });
