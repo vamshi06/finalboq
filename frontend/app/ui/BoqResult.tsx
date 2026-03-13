@@ -32,7 +32,7 @@ const STANDARD_UOMS = [
 
 // Reuse the same backend URL logic as BoqChat
 function getBackendUrl(): string {
-  let url = (process.env.NEXT_PUBLIC_BACKEND_URL || "http://localhost:8080").trim().replace(/\/$/, "");
+  let url = (process.env.NEXT_PUBLIC_BACKEND_URL || "https://boq-generator-pcqh.onrender.com").trim().replace(/\/$/, "");
   if (url.startsWith("https://localhost") || url.startsWith("https://127.0.0.1")) {
     url = url.replace("https://", "http://");
   }

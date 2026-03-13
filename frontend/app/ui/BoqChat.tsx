@@ -6,7 +6,7 @@ import { BoqResult } from "./BoqResult";
 
 // ✅ Safe backend URL: no trailing slash; localhost must use http (not https)
 function getBackendUrl(): string {
-  let url = (process.env.NEXT_PUBLIC_BACKEND_URL || "http://localhost:8080").trim().replace(/\/$/, "");
+  let url = (process.env.NEXT_PUBLIC_BACKEND_URL || "https://boq-generator-pcqh.onrender.com").trim().replace(/\/$/, "");
   if (url.startsWith("https://localhost") || url.startsWith("https://127.0.0.1")) {
     url = url.replace("https://", "http://");
   }
