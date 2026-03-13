@@ -44,8 +44,8 @@ export async function POST(request: NextRequest) {
     };
 
     // Call the backend BOQ export service
-    const response = await fetch("http://localhost:8080/api/boq/export/pdf", {
-    // const response = await fetch("https://boq-generator-pcqh.onrender.com/api/boq/export/pdf", {
+    const BACKEND = (process.env.NEXT_PUBLIC_BACKEND_URL || "https://boq-generator-pcqh.onrender.com").replace(/\/$/, "");
+    const response = await fetch(`${BACKEND}/api/boq/export/pdf`, {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
